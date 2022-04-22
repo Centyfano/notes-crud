@@ -1,0 +1,25 @@
+{
+  "name": "edwinna-interview-posts",
+  "version": "1.0.0",
+  "description": "CRUD application for notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinnab/TM.git"
+  },
+  "author": "Edwinna Bikeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinnab/TM/issues"
+  },
+  "homepage": "https://github.com/edwinnab/TM#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  }
+}
